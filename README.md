@@ -45,4 +45,4 @@ Você precisa ter o **Python 3.x** instalado na sua máquina.
 ### Passo a Passo
 1. Clone este repositório para a sua máquina local:
 ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone [https://github.com/jonathancorreiarodrigues69-png/projeto-colab-/blob/main/README.md)
